@@ -3,7 +3,7 @@ package service
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/RaymondCode/simple-demo/controller"
+	"github.com/CheemsGoUp/Simplified-Douyin-Project/controller"
 	"io"
 	"net"
 	"sync"
